@@ -1,0 +1,8 @@
+Konacna rang lista
+Ime       Poeni
+
+Aca --->3
+Milos --->2
+Nemanja --->1
+Igor --->0
+

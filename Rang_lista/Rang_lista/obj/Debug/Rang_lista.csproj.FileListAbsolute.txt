@@ -1,0 +1,26 @@
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.exe.config
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.Properties.Resources.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.csproj.GenerateResource.Cache
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.Form1.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.unos1.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\mysql.data.dll
+D:\Dokumenti aca\Projekti\PMF\I-master\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.About.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.exe.config
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.exe
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\Rang_lista.pdb
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\bin\Debug\mysql.data.dll
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.csprojResolveAssemblyReference.cache
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.About.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.Form1.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.Properties.Resources.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.unos1.resources
+D:\Dokumenti aca\Projekti\PMF\I-master\I semestar\TeorijaProgramskihJezika\Projekat\Rang_lista\Rang_lista\obj\Debug\Rang_lista.csproj.GenerateResource.Cache
+D:\Rang_lista\Rang_lista\bin\Debug\Rang_lista.exe.config
+D:\Rang_lista\Rang_lista\obj\Debug\Rang_lista.exe
+D:\Rang_lista\Rang_lista\obj\Debug\Rang_lista.pdb
