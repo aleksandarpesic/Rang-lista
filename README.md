@@ -1,2 +1,2 @@
 # Rang-lista
-Klasifikacija takmicara u sportskim disciplinama
+Classification of competitors in sports disciplines
